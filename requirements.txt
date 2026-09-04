@@ -1,0 +1,9 @@
+opencv-python
+numpy
+ultralytics
+paddleocr
+paddlepaddle
+fastapi
+uvicorn
+python-dotenv
+pillow
